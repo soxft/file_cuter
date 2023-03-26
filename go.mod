@@ -1,3 +1,3 @@
-module file_chunck_merge
+module github.com/soxft/file_cuter
 
 go 1.19
